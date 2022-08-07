@@ -1,4 +1,4 @@
-GIT
+GIT - apredendo cada vez mais
 
 Alterando o README
 
